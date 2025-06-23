@@ -1,0 +1,18 @@
+---
+layout: "splash"
+title: "AI Agents in Software Development"
+author_profile: true
+sidebar: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/sk-background.jpg
+excerpt: 'Strategy for AI Assisted Software Engineering'
+date: "2025-06-22 21:50"
+categories:
+  - Strategy
+tags:
+  - AI Agents
+  - Software Engineering
+---
+
+## Strategy for a Startup Engineering Team

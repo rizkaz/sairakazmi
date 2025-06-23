@@ -22,9 +22,9 @@ tags:
 [JAX Data Science Study Group](http://smcclatchy.github.io/studyGroup/)
 
 ## Data/Software Carpentry
-- [Data Carpentry](http://www.datacarpentry.org/so)
+- [Data Carpentry](https://www.datacarpentry.org/)
 - [Software Carpentry](https://software-carpentry.org/)
-- Certified Instructor [Team](https://software-carpentry.org/team/)
+- Certified Instructor [Team](https://carpentries.org/community/instructors/)
 
 ### Instructor Training
 * [http://swcarpentry.github.io/2016-05-18-ttt-online/](http://swcarpentry.github.io/2016-05-18-ttt-online/)

@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Saira Kazmi"
   avatar           : "/assets/images/gravitar-image.jpeg"
-  bio              : "Scientific Data Architect"
-  location         : "Hartford, CT"
+  bio              : "VP of Engineering"
+  location         : "New York, NY"
   email            :
   uri              :
   bitbucket        :
@@ -142,8 +142,9 @@ keep_files:
   - .git
   - .svn
 encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
+markdown: "kramdown"
+kramdown:
+  input: GFM
 
 # Conversion
 markdown: kramdown
@@ -179,7 +180,7 @@ timezone: "-05:00"	# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
