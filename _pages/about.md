@@ -2,12 +2,12 @@
 permalink: /about/
 layout: single
 header:
-title: "Saira A. Kazmi, Ph.D. Cultivating Innovation and Delivering Transformative AI/ML Solutions"
+title: "Delivering Transformative AI/ML Solutions"
 excerpt: "About this page"
 feature_row1:
   - image_path: /assets/images/SairaKazmi-13.jpg
     alt: "Saira Kazmi - 2025"
-    excerpt: "[Saira Kazmi](https://www.linkedin.com/in/sairakazmi/) currently serves as the VP of Engineering at NobleAI where she leads the Software, Data, ML, Security, and DevOps Engineering funcitons for a Chemical Informatics SaaS Platform (see [NobleAI](https://www.noble.ai/)). 
+    excerpt: "[Saira Kazmi, Ph.D.](https://www.linkedin.com/in/sairakazmi/) currently serves as the VP of Engineering at NobleAI where she leads the Software, Data, ML, Security, and DevOps Engineering funcitons for a Chemical Informatics SaaS Platform (see [NobleAI](https://www.noble.ai/)). 
 
     She received her Ph.D. in Computer Science with a focus in Bioinformatics from [The University of Connecticut](http://www.cse.uconn.edu/) and her post-doctoral training in Medical Informatics is from [Yale School of Medicine](http://ycmi.yale.edu/)."
     url: "/"
