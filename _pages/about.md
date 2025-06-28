@@ -2,17 +2,28 @@
 permalink: /about/
 layout: single
 header:
-title: "Delivering Transformative AI/ML Solutions"
-excerpt: "About this page"
+title: "Delivering Transformative AI/ML Solutions in Healthcare, Finance, and Science"
+excerpt: "About Me"
 feature_row1:
   - image_path: /assets/images/SairaKazmi-13.jpg
     alt: "Saira Kazmi - 2025"
-    excerpt: "[Saira Kazmi, Ph.D.](https://www.linkedin.com/in/sairakazmi/) currently serves as the VP of Engineering at NobleAI where she leads the Software, Data, ML, Security, and DevOps Engineering funcitons for a Chemical Informatics SaaS Platform (see [NobleAI](https://www.noble.ai/)). 
+    excerpt: "
+    
+    Saira is an accomplished Engineering Leader with extensive experience leading data, AI, and and machine learning initiatives across diverse industries, from innovative startups like NobleAI to Fortune 5 enterprises like CVS Health. 
+    
+    <p></p>
 
-    She received her Ph.D. in Computer Science with a focus in Bioinformatics from [The University of Connecticut](http://www.cse.uconn.edu/) and her post-doctoral training in Medical Informatics is from [Yale School of Medicine](http://ycmi.yale.edu/)."
-    url: "/"
-    btn_label: "Go To Main Page"
-    btn_class: "btn--info"
+    Her expertise spans engineering leadership, strategic planning, platform development, and MLOps, consistently delivering scalable and impactful solutions. 
+    
+    <p></p>
+
+    Her background also includes significant contributions to academic institutions and advisory boards, showcasing a commitment to fostering technological advancement and talent development.
+
+    <p></p>
+
+    In 2024, Saira Kazmi, Ph.D. was named one of the <b>Top 250 Women in AI and ML</b>. [Data Science Salon](https://roundtable.datascience.salon/250-women-in-ai-and-machine-learning-to-follow-data-science-salon-guide)
+    
+    "
 
 ---
 
@@ -24,30 +35,43 @@ feature_row1:
 
 {% include feature_row id="feature_row1" type="left" %}
 
-## Education
+# Leadership
+
+### Manchester Community College Foundation
+Voting Member Board of Directors [See Website](https://www.mccgiving.org/news/qeurorn6bezv5kj9icuwt0ut6cgkl9)
+
+Make a lasting impact by creating an endowed scholarship [MCC Foundation](https://www.mccgiving.org/ways-to-give)
+
+---
+
+# Industry Experience
+
+### VP of Enginnering, [NobleAI](https://www.noble.ai/)
+
+<!-- Saira serves as the VP of Engineering where she leads the Software, Data, ML, Security, and DevOps Engineering functions for a Chemical Informatics SaaS Platform. -->
+
+<!-- Her focus is on driving innovation, delivering customer-centric AI and ML platforms and applications within budget, and fostering a culture of engineering excellence.  -->
+
+<!-- She ensures NobleAI's products are modular, scalable, and flexible to meet evolving market demands while meeting SOC2 and ISO 27001 standards for data and privacy protection. -->
+
+### Executive Director of Analytics Engineering, [CVS Health](https://www.cvshealth.com/)
+
+### Director of Engineering (Actuarial and Data Science) [The Hartford](https://www.thehartford.com/)
+
+### Principal Scientific Data Architect, [The Jackson Laboratory](https://www.jax.org/)
+
+### Lead Big Data Engineer, [Thomson Reuters](https://innovation.thomsonreuters.com/en.html)
+
+---
+
+# Education
 
 ### Yale (Post Doctoral Fellow)
 
 [Yale Center for Medical Informatics](http://ycmi.yale.edu/training/graduatespds.aspx)
-<!-- ![image-left](https://ysmwebsites.azureedge.net/static/images/ysm_shield.svg?v=232){: .align-left} -->
 
 ### Uconn (Doctor of Philosophy, Computer Science)
 
-<!-- [Uconn Awards](http://digitalcommons.uconn.edu/cgi/viewcontent.cgi?article=1096&context=upub_commence)
--->
 [School Of Engineering](http://www.engr.uconn.edu)
-
-<!-- [Defense Announcement](https://events.uconn.edu/event/13251/2011-01-17)
-[Thesis Document](http://digitalcommons.uconn.edu/dissertations/AAI3476624/) -->
-
-## Industry Experience
-
-Executive Director of Analytics Engineering, [CVS Health](https://www.cvshealth.com/)
-
-Director of Engineering (Actuarial and Data Science) [The Hartford](https://www.thehartford.com/)
-
-Principal Scientific Data Architect, [The Jackson Laboratory](https://www.jax.org/)
-
-Lead Big Data Engineer, [Thomson Reuters](https://innovation.thomsonreuters.com/en.html)
 
 ---
