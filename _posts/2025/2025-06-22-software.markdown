@@ -1,6 +1,6 @@
 ---
 layout: "splash"
-title: "AI Agents in Software Development"
+title: "Engineering Strategy for Using Agents in Software Development"
 author_profile: true
 sidebar: true
 header:
@@ -9,10 +9,71 @@ header:
 excerpt: 'Strategy for AI Assisted Software Engineering'
 date: "2025-06-22 21:50"
 categories:
-  - Strategy
+  - Engineering Strategy
 tags:
   - AI Agents
   - Software Engineering
+
 ---
 
-## Strategy for a Startup Engineering Team
+# Strategy for a Startup Engineering Team
+
+As an engineering leader, I'm constantly thinking about how the rapid advancements in AI will enhance the capabilities of an engineer. The conversation has moved beyond theory and into practice. I’m often asked by peers and leadership, "How much of our code is AI-generated?" or the more provocative, "When can you hire a swarm of AI agents instead of engineers?"
+
+My current answer is that AI contributes to about 20-30% of our code, but that number only tells part of the story. The real value isn't just in generation but in augmentation. My posture is that engineers must be at the forefront of this shift for the entire organization. We need to be the ones testing, validating, and understanding AI advancements to help everyone adopt these tools to enhance the productivity and quality of our products.
+
+I've heard some resistance, with some feeling that using an AI assistant is beneath a highly skilled engineer. I often compare this to refusing to use a GPS while traveling in a new city. Your ego might be saved, but you won't be effective, and you risk getting lost and wasting valuable time. To guide our adoption, I've established a few key principles that frame our approach to integrating AI into engineering development workflows.
+
+## Guiding Principle 1: Enhance Team Productivity and Creativity
+
+Our first goal is to use AI to remove friction and accelerate our core development processes. This is our "Crawl" phase, where we use AI assistants like Cursor to augment our daily tasks. Anecdotally, my team tells me that they save about five hours a week in development time (essentially giving me 2.5 FTE worth of hours back over a year with a team of 20 - and that makes our CFO happy).
+
+### AI-Assisted Learning & Onboarding
+We use AI to quickly understand new libraries and unfamiliar technology frameworks. This dramatically cuts down ramp-up time.
+
+### Understand & Refactor Legacy Code
+AI assistants can analyze complex or legacy code, provide explanations, and suggest refactoring paths, helping us address tech debt more efficiently.
+
+### Improve Coding Practices
+We're seeing direct improvements in quality. AI is instrumental in generating comprehensive unit tests for better coverage and creating clearer, more consistent documentation and docstrings.
+
+## Guiding Principle 2: Accelerate Prototyping and Innovation
+
+Once the team is comfortable, we move into the "Walk" phase, focusing on creativity and speed. The goal here is to empower our teams to experiment and validate ideas faster than ever before.
+
+### Feature Ideation and Prototyping
+AI is incredibly powerful for creating solutions from the ground up, particularly for proof-of-concepts and prototypes. We can take a customer request and build a working model in a fraction of the time.
+
+### Domain-Specific Applications
+We can quickly generate code for domain-specific problems, allowing us to test market fit and iterate on features with real-world feedback.
+
+### Increased Self-Sufficiency
+This approach empowers our Machine Learning and AI teams. They can now build prototypes with a "good enough" UI to demonstrate their models, without needing to pull in a dedicated front-end team for an early-stage concept.
+
+## Guiding Principle 3: Leverage AI Across All Technical Teams
+
+A mature "Run" phase means thinking of AI as a universal tool, not just one for the software engineering team. It's a force multiplier that breaks down silos.
+
+### Cross-Functional Contributions:
+AI tools can empower front-end engineers to understand and contribute to the backend, and vice versa. This creates more resilient, T-shaped teams.
+
+### Unlocking New Potential:
+By providing powerful tools to our Product, Solution Engineering, and AI teams, we enable them to build and experiment independently, fostering a culture of innovation across the entire organization. The goal is to have everyone thinking about how AI can improve their own workflows and deliverables.
+
+## Guiding Principle 4: Assess Value and Data Implications Before Adoption
+
+Finally, enthusiasm must be balanced with pragmatic, strategic assessment. Not every new tool is worth chasing. Also, understanding how the services are using or managing data is important in protecting our intellectual property and customer data.
+
+### Keep a Pulse on the Market, but Don’t Chase Shiny Objects
+We actively monitor new tools and advancements, but we don't adopt them for their own sake. The value of tools and their cost implications must be clear.
+
+### Assess True Value
+Before rolling out a tool, we run pilot programs to evaluate its actual impact on productivity and quality. Does it solve a real problem for us? How much will it cost? Does it require training and onboarding? Does it make us more effective? Does it improve our code?
+
+### Understand Data and IP Implications
+This is non-negotiable. We must have a clear understanding of how any AI tool uses our data. Is our code being used for training? What are the IP implications? We only adopt tools that meet our strict data privacy and security standards. We use enterprise licenses when needed and ensure governance around the use of open-source AI tools.
+
+# The Future is a Partnership, Not a Replacement
+So, when will I hire a swarm of AI agents? The answer is not yet. **I’m focused on building a team of highly-skilled engineers amplified by AI.**
+
+The integration of AI agents into our workflow is not about replacing developers but about augmenting their capabilities. By following these guiding principles, my team remains productive, creative, and innovative, ready to tackle business problems without getting caught up in hype and distractions.
